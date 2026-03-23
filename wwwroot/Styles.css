@@ -1,0 +1,30 @@
+﻿
+body {
+        font-family: Arial;
+        padding: 20px;
+    }
+    
+    input, button {
+        padding: 8px;
+        margin: 5px;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        padding: 10px;
+        border: 1px solid #ccc;
+        text-align: left;
+    }
+
+.red {
+    background-color: red;
+    color: white;
+}
+.yellow {
+    background-color: yellow;
+}

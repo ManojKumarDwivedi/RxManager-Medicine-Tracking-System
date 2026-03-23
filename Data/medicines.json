@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol",
+    "Notes": "Fever medicine",
+    "ExpiryDate": "2026-12-31T00:00:00",
+    "Quantity": 3,
+    "Price": 50.00,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "Id": 2,
+    "FullName": "Ibuprofen",
+    "Notes": "Pain relief",
+    "ExpiryDate": "2026-10-15T00:00:00",
+    "Quantity": 15,
+    "Price": 80.50,
+    "Brand": "Heal Well"
+  },
+  {
+    "Id": 3,
+    "FullName": "Amoxicillin",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-08-20T00:00:00",
+    "Quantity": 8,
+    "Price": 120.00,
+    "Brand": "MediCare"
+  },
+  {
+    "Id": 4,
+    "FullName": "Cetirizine",
+    "Notes": "Allergy relief",
+    "ExpiryDate": "2026-09-10T00:00:00",
+    "Quantity": 5,
+    "Price": 30.00,
+    "Brand": "AllerFree"
+  },
+  {
+    "Id": 5,
+    "FullName": "Azithromycin",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-11-25T00:00:00",
+    "Quantity": 15,
+    "Price": 150.75,
+    "Brand": "Zed Pharma"
+  },
+  {
+    "Id": 6,
+    "FullName": "Metformin",
+    "Notes": "Diabetes control",
+    "ExpiryDate": "2027-01-05T00:00:00",
+    "Quantity": 25,
+    "Price": 90.00,
+    "Brand": "Gluco Care"
+  },
+  {
+    "Id": 7,
+    "FullName": "Aspirin",
+    "Notes": "Blood thinner",
+    "ExpiryDate": "2026-07-18T00:00:00",
+    "Quantity": 3,
+    "Price": 40.00,
+    "Brand": "Heart Safe"
+  },
+  {
+    "Id": 8,
+    "FullName": "Dolo 650",
+    "Notes": "Fever reducer",
+    "ExpiryDate": "2026-12-01T00:00:00",
+    "Quantity": 30,
+    "Price": 35.00,
+    "Brand": "Micro Labs"
+  },
+  {
+    "Id": 9,
+    "FullName": "Pantoprazole",
+    "Notes": "Acidity control",
+    "ExpiryDate": "2026-04-01T00:00:00",
+    "Quantity": 12,
+    "Price": 60.00,
+    "Brand": "Acid Relief"
+  },
+  {
+    "Id": 10,
+    "FullName": "Vitamin D3",
+    "Notes": "Supplement",
+    "ExpiryDate": "2027-03-10T00:00:00",
+    "Quantity": 18,
+    "Price": 110.00,
+    "Brand": "Nutri Life"
+  }
+]
