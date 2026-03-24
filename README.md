@@ -1,4 +1,4 @@
-# RxManager - Medicine Tracker System
+# RxManager - Medicine Tracking System
 
 RxManager is a Single Page Application (SPA) built using ASP.NET Core Web API and vanilla JavaScript to manage medicine inventory and sales. 
 The application enables users to track medicines, monitor stock levels, manage expiry dates, and record sales transactions with real time updates.
