@@ -1,6 +1,0 @@
-@PSDemo_MedicinApp_ByMkd_HostAddress = http://localhost:5223
-
-GET {{PSDemo_MedicinApp_ByMkd_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
